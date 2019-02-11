@@ -24,3 +24,7 @@ Simple Test for XSS and SQL Injection.
 ## SQL Injection test<a id="sec-1-2" name="sec-1-2"></a>
 
 ![img](./sql-test.png)
+
+
+
+<b>Soon Will Release a Latest Version With Name "Ghazi" With a Lot of Improvements</b>
